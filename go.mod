@@ -3,7 +3,7 @@ module github.com/leoluk/dft200-go
 go 1.18
 
 require (
-	github.com/muka/go-bluetooth v0.0.0-20220219050759-674a63b8741a
+	github.com/muka/go-bluetooth v0.0.0-20240701044517-04c4f09c514e
 	github.com/sirupsen/logrus v1.8.1
 )
 
